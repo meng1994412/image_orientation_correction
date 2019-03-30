@@ -46,18 +46,18 @@ Figure 1: Evaluation of the logistic regression classifier.
 ### End-to-end orientation correction pipeline
 Figure 2 to 5 demonstrate some sample outputs for the original and corrected images.
 
-<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_1.png" width="500">
+<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_1.png" width="600">
 
 Figure 2: Sample output #1.
 
-<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_2.png" width="500">
+<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_2.png" width="600">
 
 Figure 3: Sample output #2.
 
-<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_3.png" width="500">
+<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_3.png" width="600">
 
 Figure 4: Sample output #3.
 
-<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_4.png" width="500">
+<img src="https://github.com/meng1994412/image_orientation_correction/blob/master/outputs/sample_output_4.png" width="600">
 
 Figure 4: Sample output #4.

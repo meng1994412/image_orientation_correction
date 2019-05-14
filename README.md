@@ -2,7 +2,7 @@
 ## Objectives
 Apply transfer learning to automatically detect and correct orientation of an image.
 * Modified `Indoor CVPR` dataset images by rotating the images into 0, 90, 180, 270 degrees separately to build a new dataset.
-* Extracted features via `VGG16` network pre-trained on ImageNet and save features into `hdf` file.
+* Extracted features via `VGG16` network pre-trained on ImageNet and save features into `hdf5` file.
 * Trained a logistic regression classifier built on top of the `VGG16` to correct orientation classifier and evaluate the model.
 * Defined an end-to-end pipeline so that we can input an image and its orientation will be corrected.
 
